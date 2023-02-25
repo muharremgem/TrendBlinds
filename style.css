@@ -35183,7 +35183,7 @@ footer .footer__content .footer__copyright a:hover {
     font-weight: 700;
     font-size: 24px;
     color: #33475b;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
     margin-left: 26px;
 }
 
@@ -35191,7 +35191,7 @@ footer .footer__content .footer__copyright a:hover {
 .modal__form .form__HS .form__text {
     font-size: 14px;
     line-height: 1.5;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
     margin-left: 26px;
 }
 
