@@ -32371,10 +32371,12 @@ header .container {
 
 header .header__logo {
     margin-right: 75px
+
 }
 
 header .header__logo .logo__link {
     display: block
+
 }
 
 header .header__logo .logo__link .link__image {
@@ -40780,16 +40782,19 @@ img {
     .header__container {
         max-width: 1620px
     }
+
 }
 
 @media only screen and (max-width:1649px) {
     #landing_hero {
         background-position: center right;
         position: relative
+
     }
 
     header .header__logo {
         margin-right: 30px
+
     }
 
     header .header__menu .menu__list>.list__item>.item__link {
@@ -42679,6 +42684,7 @@ img {
     }
 
     header .header__logo {
+      
         margin-right: 0;
         text-align: center
     }
@@ -43015,7 +43021,7 @@ img {
 
 @media only screen and (max-width:430px) {
     header .header__logo .logo__link .link__image {
-        height: 55px
+        height: 100px        
     }
 
     header .header__phone {
