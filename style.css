@@ -40374,6 +40374,13 @@ te-post-service-big #trust .wac .logotypes__list {
     align-items: stretch;
     justify-content: space-between;
     flex-wrap: wrap
+
+}
+
+
+ .home-time-list ol, ul {
+    list-style: none;
+    padding-left: 0;
 }
 
 .home-time-list img{
@@ -40387,7 +40394,7 @@ te-post-service-big #trust .wac .logotypes__list {
 }
 
 .home-time-list li:first-of-type::after {
-    content: '';
+
     display: flex;
     align-items: center;
     justify-content: center;
